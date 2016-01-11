@@ -1,2 +1,2 @@
 # puzzles
-Little puzzles program on android and ios.
+Little puzzles program with one picture on android and ios.
